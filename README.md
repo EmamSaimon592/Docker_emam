@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/dockergif.gif" alt="Emam saimon docker">
+</p>
+
 #  🐳 what is Docker?
 Docker is an open-source platform that enables developers to automate application deployment, scaling, and management using containerization. Containers are lightweight, portable, and self-sufficient environments that include everything an application needs to run, such as code, libraries, dependencies, and runtime.
 
@@ -163,6 +167,10 @@ Removes:
 ---
 
 Feel free to fork or star this repo if you find it useful!
+
+<p align="center">
+  <img src="images/dockerpic.png" alt="Emam saimon docker">
+</p>
 
 
 
