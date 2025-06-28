@@ -7,3 +7,6 @@ ENV MONGO_DB_USERNAME=admin \
     COPY . /testapp
 
     CMD ["node","./testapp/server.js" ]
+
+
+// Docker 
